@@ -40,14 +40,12 @@ final testing1234,City,State,,,,May 2024,0
 new kiosk,City,State,,,,June 2024,0
 new kiosk,City,State,,,,May 2024,0
 aab,City,State,,,,June 2024,0
-aab,City,State,,,,May 2024,0
 kiosk-disha,Pune,Maharashtra,,,,June 2024,0
 kiosk-disha,Pune,Maharashtra,,,,May 2024,0
 Main Entrance Kiosk,City,State,,,,June 2024,0
 Main Entrance Kiosk,City,State,,,,May 2024,0
 Dw iosk,City,State,,,,June 2024,0
 Dw iosk,City,State,,,,May 2024,0
-kiosk,city,state,disease_month,disease_list,disease_count,patient_month,patient_counts
 kiosk 123,Pune,Maharashtra,June 2024,PIT AND FISSURE CARIES,2.0,June 2024,7
 kiosk 123,Pune,Maharashtra,June 2024,CALCULUS,5.0,June 2024,7
 kiosk 123,Pune,Maharashtra,June 2024,DIASTEMA,3.0,June 2024,7
@@ -56,7 +54,6 @@ kiosk 123,Pune,Maharashtra,June 2024,CROWNS,1.0,June 2024,7
 kiosk 123,Pune,Maharashtra,June 2024,FRACTURE,4.0,June 2024,7
 kiosk 123,Pune,Maharashtra,June 2024,STAINS,4.0,June 2024,7
 kiosk 123,Pune,Maharashtra,June 2024,ATTRITION,1.0,June 2024,7
-kiosk,city,state,disease_month,disease_list,disease_count,patient_month,patient_counts
 kiosk 123,Pune,Maharashtra,June 2024,PIT AND FISSURE CARIES,2.0,June 2024,7
 kiosk 123,Pune,Maharashtra,June 2024,CALCULUS,5.0,June 2024,7
 kiosk 123,Pune,Maharashtra,June 2024,DIASTEMA,3.0,June 2024,7
